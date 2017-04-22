@@ -3,8 +3,8 @@
 
 output :   
 000000000000005a T main  
-000000000000002e T _Z7averageif , the encoded identifiers is "if" for "int" and "float"
-0000000000000000 T _Z7averagePdRd  , the encoded identifiers is "PdRd" for "Pointer double" and "Reference double"
+000000000000002e T _Z7averageif , the encoded identifiers is "if" for "int" and "float"  
+0000000000000000 T _Z7averagePdRd  , the encoded identifiers is "PdRd" for "Pointer double" and "Reference double"  
 
 
 
